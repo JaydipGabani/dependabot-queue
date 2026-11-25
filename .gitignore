@@ -1,0 +1,11 @@
+/bin/
+/state/
+/private/
+.env*
+*.pem
+*.key
+*.pfx
+*.kubeconfig
+*.db
+*.db-*
+coverage.out
